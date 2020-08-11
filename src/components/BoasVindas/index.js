@@ -10,7 +10,7 @@ export default function BoasVindas() {
 
     return (
         <div className="boas-vindas">
-            <h1> Seja bem vindo laura</h1>
+            <h1> Seja bem vindo bea</h1>
             <h2> hehehe </h2>
             <Ninja/>
 
